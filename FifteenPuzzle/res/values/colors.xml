@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<color name="top_status_bar_text_color">#FFFFFF</color>
+	<color name="tile_text_color">#681D00</color>
+	<color name="new_game_menu_row_column_number">#FFDA98</color>
+
+</resources>
